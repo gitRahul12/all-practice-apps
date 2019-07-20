@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568691204799",
+    "firebase_url": "https://socialauth-fbc8c.firebaseio.com",
+    "project_id": "socialauth-fbc8c",
+    "storage_bucket": "socialauth-fbc8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568691204799:android:8b1677df56baab28",
+        "android_client_info": {
+          "package_name": "com.rahul.socialauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568691204799-uqijot6mqmg8u8vamfml0ono7940cjni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.socialauth",
+            "certificate_hash": "6a3a6178f561a29ca21c559d9e5ca935a329dc8e"
+          }
+        },
+        {
+          "client_id": "568691204799-2j1v3e0jgfhdn0rvvgjk8h4d8t0ish1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKazobyPTCMR_srr73z8IiVupCRkpNI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568691204799-2j1v3e0jgfhdn0rvvgjk8h4d8t0ish1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

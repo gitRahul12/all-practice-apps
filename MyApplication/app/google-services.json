@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695387517292",
+    "firebase_url": "https://fir-auth-e9d8f.firebaseio.com",
+    "project_id": "fir-auth-e9d8f",
+    "storage_bucket": "fir-auth-e9d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695387517292:android:571ac49f67a649a4",
+        "android_client_info": {
+          "package_name": "com.rahul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695387517292-uc36avs59ed4c1gbetfhnhrj54m6kg79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.myapplication",
+            "certificate_hash": "6a3a6178f561a29ca21c559d9e5ca935a329dc8e"
+          }
+        },
+        {
+          "client_id": "695387517292-a973trnsko50vaug76nn81p385vcoddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkenYtzF5CL1pZnxmzO9NjEhgk7i4XRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695387517292-a973trnsko50vaug76nn81p385vcoddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
